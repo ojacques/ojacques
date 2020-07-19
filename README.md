@@ -9,7 +9,7 @@ I'm Distinguished Technologist, DevOps at [DXC Technology](https://www.dxc.techn
 
 - :newspaper: I blog sometimes, and it's hosted here on GitHub: [ojacques.github.io](https://ojacques.github.io).
 - :musical_keyboard: I play music (keyboard, drums) - check out my band: [Shiny Darkness](https://www.shinydarkness.com/albums/)
-- I fly my paraglider in the Alps. Some [videos :clapper:](https://www.youtube.com/watch?v=EFSgRfM4bB8&list=PLXlngHSyS_5_1a0N_O7EIQbxPQbU_x9pm&index=1)
+- 🪂 I fly my paraglider in the Alps 🌄⛅. Some [videos :clapper:](https://www.youtube.com/watch?v=EFSgRfM4bB8&list=PLXlngHSyS_5_1a0N_O7EIQbxPQbU_x9pm&index=1)
 ![](parapente-vercors-france-olivier.png)
 - 📫 How to reach me: [Twitter](https://twitter.com/ojacques2), [LinkedIn](https://www.linkedin.com/in/olivierjacques/).
 - ⚡ Fun fact: my first computer was a Commodore Vic 20 with 3.5 kBytes of RAM
