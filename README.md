@@ -3,7 +3,7 @@
 
 #### Work
 
-I'm Distinguished Technologist, DevOps at [DXC Technology](https://www.dxc.technology/). I work on building, deploying and operating Software in the Cloud and on premises, the "DevOps" ([3 ways](https://itrevolution.com/the-three-ways-principles-underpinning-devops/) ways).
+I'm Distinguished Technologist, DevOps at [DXC Technology](https://www.dxc.technology/). I work on building, deploying and operating Software in the Cloud and on premises, the "DevOps" [(3) ways](https://itrevolution.com/the-three-ways-principles-underpinning-devops/).
 
 #### Not work
 
