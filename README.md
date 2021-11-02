@@ -3,7 +3,7 @@
 
 #### Work
 
-I'm a Principal, DevOps. I work on building, deploying and operating Software in the Cloud and on premises, the "DevOps" [(3) ways](https://itrevolution.com/the-three-ways-principles-underpinning-devops/).
+I'm a Senior DevOps Consultant. I work on building, deploying and operating Software in the Cloud and on premises, the "DevOps" [(3) ways](https://itrevolution.com/the-three-ways-principles-underpinning-devops/).
 
 #### Not work
 
