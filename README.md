@@ -3,7 +3,7 @@
 
 #### Work
 
-I'm a Senior DevOps Consultant. I work on building, deploying and operating Software in the Cloud and on premises, the "DevOps" [(3) ways](https://itrevolution.com/the-three-ways-principles-underpinning-devops/).
+I'm a Senior DevOps Consultant. I work on building, deploying and operating Software in the Cloud and on premises, the "DevOps" [(3) ways](https://itrevolution.com/the-three-ways-principles-underpinning-devops/), inspired by the [5 ideals](https://www.olivierjacques.com/blog/The-Unicorn-Project-Book-Review/#the-five-ideals).
 
 #### Not work
 
